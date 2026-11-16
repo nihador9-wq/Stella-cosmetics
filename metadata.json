@@ -1,0 +1,6 @@
+{
+  "name": "Stella Cosmetics",
+  "description": "Boutique en ligne de cosmétiques, soins du visage, parfums et coffrets à Jolie Vue, Kouba, Alger. Livraison vers les 58 wilayas d'Algérie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
